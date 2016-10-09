@@ -38,6 +38,7 @@ type ExprTree = | Const  of int
                 | Prod   of ExprTree * ExprTree
                 | Let    of string * ExprTree * ExprTree
                 | IfThenElse   of LogicalExprTree * ExprTree * ExprTree
+                | Match  of ExprTree * (int * ExprTree) list 
 
 and LogicalExprTree = | And of LogicalExprTree * LogicalExprTree
                       | Or of LogicalExprTree * LogicalExprTree
@@ -49,7 +50,6 @@ and LogicalExprTree = | And of LogicalExprTree * LogicalExprTree
 let IfExpression = IfThenElse(And(GreaterThan (Sum(Ident "a", Const 3), Sum(Ident "b", Ident "c")), GreaterThan(Ident "a",Const 0)),
                         Sum(Ident "c", Ident "d"),
                         Ident "e")
-
 
 // 2. Extend the function eval defined in the lecture to support the
 // if-then-else expressions defined in Q1.
@@ -66,6 +66,9 @@ let rec eval t clojure =
                         let clojure1 = Map.add s v1 clojure
                         eval t2 clojure1
     | IfThenElse (condition,t1,t2) -> if logicEval condition clojure then eval t1 clojure else eval t2 clojure
+    | Match (t, matchList) -> let m = eval t clojure
+                              let matching = List.find (fun x -> (fst x) = m) matchList
+                              eval (snd matching) clojure                              
 
 and logicEval logicTree clojure =
     match logicTree with
@@ -115,7 +118,7 @@ let rec mapB (trans: int->int) (list: BList) =
     | Snoc (body, item) -> Snoc (mapB trans body, 
                                    trans item)
 
-mapB (fun x ->x+1) (Snoc(Snoc(Snoc(Snoc(BEmpty, 4), -6), 2), 1))
+mapB (fun x -> x+1) (Snoc(Snoc(Snoc(Snoc(BEmpty, 4), -6), 2), 1))
 
 // 5-7. Given the type definition
 type Tree =
@@ -161,6 +164,10 @@ productTree exampleTree
 // ** Bonus questions **
 
 // 8. Extend the ExprTree type with a pattern match expression
-// match p with [p1, ex1; p2,ex2 ...]
-
+// match p with [p1, ex 1; p2,ex2 ...]
+let matchExpression = Match(IfExpression, 
+                            [(5, Const 888)
+                             (13, Const 999)
+                            ])
 // 9. Extend the eval function to support match expressions.
+eval matchExpression clojure
