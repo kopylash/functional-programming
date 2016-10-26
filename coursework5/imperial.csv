@@ -1,0 +1,401 @@
+Manufacturer,Model,Description,Gearbox,Imperial combined (float),Fuel type,CO2 (float),Tax band
+AUDI,A6 Avant,3.0 V6 TDI quattro 218PS 7speed S tronic 17'' wheels,QD7,55.4,Diesel,134,E
+AUDI,A6 Avant,3.0 V6 TDI quattro 218PS 7speed S tronic 18'' wheels,QD7,55.4,Diesel,134,E
+AUDI,A6 Avant,2.0 TDI quattro 190PS S tronic Stop-Start 18'' wheels,QD7,55.4,Diesel,133,E
+AUDI,A6 Avant,2.0 TDI quattro 190PS S tronic Stop-Start 19'' wheels,QD7,55.4,Diesel,134,E
+AUDI,A6 Avant,2.0 TDI quattro 190PS S tronic Stop-Start 17'' wheels,QD7,55.4,Diesel,132,E
+AUDI,A6 Saloon,3.0 V6 TDI quattro 218PS 7speed S tronic 20'' wheels,QD7,55.4,Diesel,134,E
+AUDI,A6 Saloon,3.0 V6 TDI quattro 272PS 7speed S tronic 17'' wheels,QD7,55.4,Diesel,133,E
+AUDI,A6 Saloon,3.0 V6 TDI quattro 272PS 7speed S tronic 19'' wheels,QD7,55.4,Diesel,135,E
+AUDI,A6 Saloon,3.0 V6 TDI quattro 272PS 7speed S tronic 18'' wheels,QD7,55.4,Diesel,133,E
+AUDI,A7 Sportback,3.0 V6 TDI quattro 218PS 7speed S tronic with 19'' wheels,QD7,55.4,Diesel,134,E
+AUDI,New A3 Cabriolet,2.0 TDI quattro 150PS 19'' wheels,QM6,55.4,Diesel,132,E
+AUDI,New A3 Cabriolet,1.4 TFSI 150PS 7speed S-tronic 18'' wheels,D7,55.4,Petrol,118,C
+AUDI,New A3 Cabriolet,2.0 TDI quattro 184PS S-tronic 18'' wheels,QD6,55.4,Diesel,134,E
+AUDI,New A4 Allroad,3.0 V6 TDI quattro 218PS 7speed S-tronic with 17'' wheels,QD7,55.4,Diesel,137,E
+AUDI,New A4 Allroad,2.0 TDI quattro 190PS 7speed S-tronic with 19'' wheels,QD7,55.4,Diesel,134,E
+AUDI,New A4 Saloon,2.0 TFSI 190PS 7speed S tronic 17'' wheels,D7,55.4,Petrol,116,C
+AUDI,New A4 Saloon,3.0 V6 TDI quattro 272PS 8speed Tiptronic 18'' wheels,QD8,55.4,Diesel,134,E
+AUDI,New A5 Coupé,2.0 TFSI 190PS 7-speed S-tronic 17'' wheels,D7,55.4,Petrol,117,C
+AUDI,New A6 Avant,2.0 TDI quattro 190PS 7speed S-tronic 18'' wheels,QD7,55.4,Diesel,133,E
+AUDI,New A6 Avant,2.0 TDI quattro 190PS 7speed S-tronic 19'' wheels,QD7,55.4,Diesel,134,E
+AUDI,New A6 Avant,2.0 TDI quattro 190PS 7speed S-tronic 17'' wheels,QD7,55.4,Diesel,132,E
+AUDI,New A6 Saloon,3.0 TDI quattro V6 272PS 7speed S-tronic 17 & 18'' wheel,QD7,55.4,Diesel,133,E
+AUDI,New A6 Saloon,3.0 TDI quattro V6 272PS 7speed S-tronic 19'' wheels,QD7,55.4,Diesel,135,E
+AUDI,New A6 Saloon,3.0 TDI quattro V6 218PS 7speed S-tronic 19'' wheels,QD7,55.4,Diesel,135,E
+AUDI,Q3,2.0 TDI quattro 150PS 7speed S tronic with 18'' wheels,QD7,55.4,Diesel,133,E
+BMW,"1 Series 3-door F21, From September 2012",118i 17'' tyres,A8,55.4,Petrol,119,C
+BMW,"1 Series 5-door F20, From September 2011",118i 17'' tyres,A8,55.4,Petrol,119,C
+BMW,"2 Series Active Tourer F45, From September 2014",218i Active Tourer - 16'' & 17'' tyres,A6,55.4,Petrol,119,C
+BMW,"2 Series Active Tourer F45, From March 2016",218i Active Tourer - 16'' & 17'' tyres,M6,55.4,Petrol,119,C
+BMW,"2 Series Gran Tourer F46, From June 2015",220d xDrive Gran Tourer - 18'' tyres,A8,55.4,Diesel,134,E
+BMW,"3 Series Gran Turismo F34, From June 2013",325d Gran Turismo - 18'' tyres,A8,55.4,Diesel,133,E
+BMW,"3 Series Gran Turismo F34, From June 2013",325d Gran Turismo - 19'' tyres,A8,55.4,Diesel,135,E
+BMW,"3 Series Touring F31, from September 2012",330d Touring - 17'' tyres,A8,55.4,Diesel,135,E
+BMW,"4 Series Convertible F33, From March 2014",420d Convertible - 18'' & 19'' tyres,M6,55.4,Diesel,134,E
+BMW,"4 Series Coupé F32, From October 2013",430d Coupé - 18'' & 19'' tyres,A8,55.4,Diesel,134,E
+BMW,"5 Series F10/F11, From March 2010",525d Saloon - 18'' tyres all-around,M6,55.4,Diesel,134,E
+BMW,"5 Series F10/F11, From March 2010",530d Saloon - 17'' tyres,A8,55.4,Diesel,134,E
+BMW,"5 Series F10/F11, From March 2010",525d Touring - 18'' tyres,A8,55.4,Diesel,134,E
+BMW,"7 Series G11,, From October 2015",740d xDrive Saloon - 18'' tyres,A8,55.4,Diesel,134,E
+BMW,"X1 Series F48 , From October 2015",X1 xDrive20d - 19'' tyres,A8,55.4,Diesel,133,E
+BMW,"X1 Series F48, From March 2016",X1 xDrive20d - 19'' tyres,A8,55.4,Diesel,134,E
+BMW,"X1 Series F48, From March 2016",X1 xDrive25d - 17'' & 18'' tyres,A8,55.4,Diesel,133,E
+BMW,"X3 Series F25, From November 2010",X3 xDrive20d - 8J x 17'' wheels,M6,55.4,Diesel,135,E
+BMW,"X4 Series F26, From July 2014",X4 xDrive20d - 8J x 17'' wheels,M6,55.4,Diesel,135,E
+CHRYSLER JEEP,"Jeep Renegade, MY2015",2.0 140bhp 4x4,M6,55.4,Diesel,134,E
+CHRYSLER JEEP,"Jeep Renegade, MY2015",2.0 120bhp 4x4,M6,55.4,Diesel,134,E
+CHRYSLER JEEP,"Jeep Renegade, MY2016",2.0 140bhp 4x4,M6,55.4,Diesel,134,E
+CHRYSLER JEEP,"Jeep Renegade, MY2016",2.0 120bhp 4x4,M6,55.4,Diesel,134,E
+CHRYSLER JEEP,"Jeep Renegade, MY2017",2.0 140bhp 4x4,M6,55.4,Diesel,134,E
+CITROEN,Berlingo Multispace,Pure Tech 110 S&S,M5,55.4,Petrol,119,C
+CITROEN,C4,"PureTech 130 S&S EAT6 (17"" & 18""' wheels)",A6,55.4,Petrol,117,C
+CITROEN,C4 Picasso,PureTech 130 S&S EAT6,A6,55.4,Petrol,115,C
+CITROEN,C4 Picasso,PureTech 110 S&S,M6,55.4,Petrol,115,C
+CITROEN,Grand C4 Picasso,PureTech 130 S&S EAT6,A6,55.4,Petrol,115,C
+CITROEN,SpaceTourer,XS BlueHDi 115 S&S BVM6 Feel,M6,55.4,Diesel,133,E
+DACIA,"Sandero Stepway Euro6, 2015",TEC 90,M5,55.4,Petrol,115,C
+FIAT,"Panda, From February 2012 onwards",1.2 8v 69 bhp,M5,55.4,Petrol,119,C
+FORD,"All New C-Max, Model Year Post 2016¼",1.0 EcoBoost (125PS) Stop-Start,M6,55.4,Petrol,117,C
+FORD,"All New C-Max, Model Year Post 2016¼",1.0 EcoBoost (100PS) Stop-Start,M6,55.4,Petrol,117,C
+FORD,"All New C-Max, Model Year Pre 2016¼",1.0 EcoBoost (100PS) Stop-Start,M6,55.4,Petrol,117,C
+FORD,"All New C-Max, Model Year Pre 2016¼",1.0 EcoBoost (125PS) Stop-Start,M6,55.4,Petrol,117,C
+FORD,"B-MAX, Model Year Post 2015¾",1.0 EcoBoost (100PS),M5,55.4,Petrol,119,C
+HONDA,"CR-V, Model Year 2015","1.6 i-DTEC 4WD EX, SR",M6,55.4,Diesel,133,E
+HONDA,"CR-V, Model Year 2015","1.6 i-DTEC SE Plus, SE Plus Navi",A5,55.4,Diesel,134,E
+HONDA,"Jazz, Model Year 2016","1.3 i-VTEC EX, EX Navi",M5,55.4,Petrol,120,C
+HYUNDAI,i20,1.2l 62kW,5MT,55.4,Petrol,119,C
+KIA,Sportage,'3 Sat Nav' 1.7 CRDi 114bhp ISG,M6,55.4,Diesel,135,E
+KIA,Sportage,'Axis Edition' 1.7 CRDi 114bhp ISG,M6,55.4,Diesel,135,E
+LAND ROVER,Range Rover Evoque 16MY,2.0L TD4 (150PS & 180PS) 5-door Auto AWD,A9-AWD,55.4,Diesel,134,E
+MAZDA,Mazda3 4 door,2.0 SKYACTIV-G (120PS),M6,55.4,Petrol,119,C
+MAZDA,Mazda3 5 door,2.0 SKYACTIV-G (120PS),M6,55.4,Petrol,119,C
+MAZDA,Mazda3 5 door,1.5 SKYACTIV-G (100PS),M6,55.4,Petrol,119,C
+MERCEDES-BENZ,"A-Class, Model Year 2016","A180 with 16"" rear wheels",A7,55.4,Petrol,119,C
+MERCEDES-BENZ,"A-Class, Model Year 2016","A200 with 16"" rear wheels",A7,55.4,Petrol,119,C
+MERCEDES-BENZ,"C-Class Estate, Model Year 2017",C 220 d 4MATIC with 19'' rear wheels,A9,55.4,Diesel,134,E
+MERCEDES-BENZ,"C-Class Estate, Model Year 2017",C 250 d 4MATIC with 19'' rear wheels,A9,55.4,Diesel,134,E
+MERCEDES-BENZ,"E-Class Estate, Model Year 2016",E 220 d with 18'' rear wheels & towbar,A7,55.4,Diesel,133,E
+MERCEDES-BENZ,"E-Class Saloon, Model Year 2016",E 220 BLUETEC with 18'' & 19'' rear wheels,A7,55.4,Diesel,121,D
+MINI,"Clubman F54, From October 2015",MINI Cooper - 16'' tyres,M6,55.4,Petrol,118,C
+MINI,"Clubman F54, From October 2015",MINI Cooper - 16'' tyres,A6,55.4,Petrol,118,C
+MINI,"Clubman F54, From October 2015",MINI Cooper - 17'' tyres,M6,55.4,Petrol,121,D
+MINI,"Convertible F57, From March 2016",MINI Cooper - 15'' & 16'' tyres,A6,55.4,Petrol,119,C
+MINI,"Convertible F57, From March 2016",MINI Cooper - 17'' & 18'' tyres,M6,55.4,Petrol,118,C
+NISSAN,"Micra Euro6 , 2015",1.2 DIG-S CVT,CVT,55.4,Petrol,119,C
+NISSAN,"Note Euro6, 2015",1.2 DIGT-S,M5,55.4,Petrol,99,A
+NISSAN,"Note Euro6, 2015",1.2 DIGT-S CVT,CVT,55.4,Petrol,119,C
+NISSAN,"NV200 EURO6, 2015",NV200 90ps 5 seat,M5,55.4,Diesel,133,E
+NISSAN,"NV200 EURO6, 2015",NV200 90ps 7seat,M6,55.4,Diesel,133,E
+NISSAN,"Pulsar Euro6, 2015",DIGT 115 Xtronic,CVT,55.4,Petrol,127,D
+NISSAN,"Qashqai Euro6, 2015",dCi 130 4WD 18/19 inch wheel,M6x2,55.4,Diesel,133,E
+NISSAN,"XTrail Euro6, 2015",dCi 130 2WD 19'' wheel,M6,55.4,Diesel,133,E
+NISSAN,"XTrail Euro6, 2015",dCi 130 Xtronic 17'' wheel,M6,55.4,Diesel,135,E
+PEUGEOT,Partner Tepee,1.2L PureTech 110 S&S,M5,55.4,Petrol,119,C
+PEUGEOT,Traveller,Compact BlueHDi 115 S&S Active,M6,55.4,Diesel,133,E
+RENAULT,"Captur Euro6, 2015",Energy TCE 90 Stop Start,M5,55.4,Petrol,114,C
+SEAT,Alhambra,"2.0 CR TDI 150PS Ecomotive SE, Connect, SE Lux, FR Line",M6,55.4,Diesel,132,E
+SEAT,Ateca,2.0 TDI 150PS Stop-Start 4DRIVE Xcellence,M6,55.4,Diesel,129,D
+SKODA,New Superb Estate,1.4 TSI 150PS DSG Stop-Start 17'' wheels,D6,55.4,Petrol,119,C
+SKODA,New Superb Estate,1.4 TSI 150PS DSG Stop-Start super ROWI tyres,D6,55.4,Petrol,117,C
+SKODA,New Superb Estate,1.4 TSI 150PS Stop-Start 17'' wheels,M6,55.4,Petrol,119,C
+HYUNDAI,i30,1.4l Blue Drive,M6,47.1,Petrol,138,E
+HYUNDAI,Santa Fe,2.2l CRDi 4WD 18'' or 19'' wheels,M6,47.1,Diesel,159,G
+INFINITI,"Q30 Euro6, 2016",Q30 1.6T 18 inch wheel,M6,47.1,Petrol,138,E
+INFINITI,"Q30 Euro6, 2016",Q30 1.6T 19 inch wheel,M6,47.1,Petrol,140,E
+JAGUAR,"F-PACE, 17MY",3.0L TDV6 (300PS) Automatic AWD,A8-AWD,47.1,Diesel,159,G
+KIA,cee'd,'SR7' 1.4 98bhp,M6,47.1,Petrol,138,E
+KIA,cee'd,'1' 1.4 98bhp ,M6,47.1,Petrol,138,E
+KIA,cee'd SW,'SR7' 1.4 98bhp,M6,47.1,Petrol,138,E
+KIA,pro_cee'd,'SR7' 1.4 98bhp,M6,47.1,Petrol,138,E
+KIA,Sorento,'KX-3' 2.2 CRDi 197bhp ISG 7-seat,M6,47.1,Diesel,159,G
+KIA,Sorento,'KX-2' 2.2 CRDi 197bhp ISG 7-seat,M6,47.1,Diesel,159,G
+MAZDA,MX-5,1.5 SKYACTIV-G (131PS),M6,47.1,Petrol,139,E
+MERCEDES-BENZ,"C-Class Cabriolet, Model Year 2017",C 200 with 17'' rear wheels,M6,47.1,Petrol,136,E
+MERCEDES-BENZ,"E-Class Saloon, Model Year 2016",E 250 with 18'' & 19'' rear wheels,A7,47.1,Petrol,138,E
+MERCEDES-BENZ,"GLA Class, Model Year 2017",GLA 200 with 19'' rear wheels,M6,47.1,Petrol,138,E
+MERCEDES-BENZ,"GLC Coupé, Model Year 2017",GLC 350 d 4MATIC with 18'' rear wheels,A9,47.1,Diesel,161,G
+MERCEDES-BENZ,"S-Class Limousine, Model Year 2016",S 350 d with 19'' wheels,A7,47.1,Diesel,157,G
+MERCEDES-BENZ,"S-Class Limousine, Model Year 2016½",S 350 d with 20'' rear wheels,A9,47.1,Diesel,157,G
+MERCEDES-BENZ,"S-Class Limousine, Model Year 2017",S 350 d with 20'' rear wheels,A9,47.1,Diesel,157,G
+MERCEDES-BENZ,"SLC, Model Year 2017",SLC 300 with 18'' rear wheels,A9,47.1,Petrol,138,E
+MERCEDES-BENZ,"SLK-Class, Model Year 2016",SLK 300 with 18'' rear wheels,A9,47.1,Petrol,138,E
+MINI,"5-door Hatchback F55, From October 2014",MINI Cooper S - 17'' & 18'' tyres,M6,47.1,Petrol,139,E
+MINI,"Convertible F57, From March 2016",MINI Cooper S - 16'' tyres,M6,47.1,Petrol,139,E
+MINI,"Countryman R60, From September 2010",MINI Cooper S - 17'' tyres,M6,47.1,Petrol,139,E
+MINI,"Countryman R60, From September 2010",MINI One - 18'' tyres,M6,47.1,Petrol,139,E
+MINI,"Paceman R61, From November 2012",MINI Cooper S - 17'' tyres,M6,47.1,Petrol,139,E
+NISSAN,"Juke Euro6, 2015",1.6 96ps,M5,47.1,Petrol,138,E
+NISSAN,"Juke Euro6, 2015",DIG-T 190,M6,47.1,Petrol,139,E
+NISSAN,"Juke Euro6, 2015",1.6 117ps 17 inch wheel,CVT,47.1,Petrol,139,E
+NISSAN,"Qashqai Euro6, 2015",DIG-T 163 18/19 inch wheel,M6,47.1,Petrol,138,E
+PEUGEOT,308,GTi 1.6 THP 250 S&S,M6,47.1,Petrol,139,E
+PEUGEOT,308,GTi 1.6 THP 270 S&S,M6,47.1,Petrol,139,E
+PEUGEOT,Traveller,Standard BlueHDi 180 S&S EAT6 Business VIP,A6,47.1,Diesel,159,G
+RENAULT,Megane 2016,TCe 205 EDC,A7,47.1,Petrol,134,E
+RENAULT,"Trafic Euro6, 2016",Energy dCi 95,M6,47.1,Diesel,155,G
+RENAULT,"Trafic Euro6, 2016",Energy dCi 145,M6,47.1,Diesel,152,G
+SEAT,Leon 5 Door,1.8 TSI 180PS Stop-Start FR,M6,47.1,Petrol,138,E
+SEAT,Leon SC,1.8 TSI 180PS Stop-Start FR,M6,47.1,Petrol,138,E
+SEAT,Leon ST,1.8 TSI 180PS Stop-Start FR,M6,47.1,Petrol,138,E
+TOYOTA,"Avensis , MY2015",4 door Active 1.8l,6MT,47.1,Petrol,139,E
+TOYOTA,"Avensis , MY2015",Touring Sport Active 1.8l CVT,CVT,47.1,Petrol,139,E
+TOYOTA,"Avensis , MY2015",4 door Business Edition Plus 1.8l,6MT,47.1,Petrol,140,E
+TOYOTA,"Avensis , MY2015",Touring Sport Business Edition 1.8l CVT,CVT,47.1,Petrol,142,F
+TOYOTA,"Avensis , MY2015",4 door Business Edition 1.8l,6MT,47.1,Petrol,140,E
+TOYOTA,"Avensis , MY2015",Touring Sport Business Edition Plus 1.8 CVT,CVT,47.1,Petrol,142,F
+VAUXHALL,"Astra GTC, Model Year 2015","1.4i 140PS SRi 16v Turbo Stop/Start with 17'', 18'', 19'' and 20'' wheels",M6,47.1,Petrol,142,F
+VAUXHALL,"Astra GTC, Model Year 2015","1.4i 140PS Limited Edition 16v Turbo Sop/Start with 17'', 18'', 19'' and 20'' wheels",M6,47.1,Petrol,142,F
+VAUXHALL,"Astra GTC, Model Year 2016","1.4i 120PS Limited Edition 16v Turbo Stop/Start with 17'', 18'', 19'' and 20'' wheels",M6,47.1,Petrol,142,F
+VAUXHALL,"Corsa 3 Door Hatchback, Model Year 2015","1.4i 90PS Design with 14'', 15'' and 16'' wheels",A6,47.1,Petrol,140,E
+VAUXHALL,"Corsa 5 Door Hatchback, Model Year 2015","1.4i 90PS Design with 14'', 15'' and 16'' wheels",A6,47.1,Petrol,140,E
+VAUXHALL,"Meriva, Model Year 2015","1.4i 100PS 16v SE with 15'', 16'' and 17'' wheels",M5,47.1,Petrol,140,E
+VAUXHALL,"Meriva, Model Year 2015","1.4i 100PS Tech Line 16v with 15'', 16'' and 17'' wheels",M5,47.1,Petrol,140,E
+VAUXHALL,"Meriva, Model Year 2016","1.4i 100PS Life 16v with 15'', 16'' and 17'' wheels",M5,47.1,Petrol,140,E
+VAUXHALL,"Mokka X, Model Year 2017","1.4i 140PS Active Turbo Stop-Start with 16'', 17'', 18'' and 19'' wheels",M6,47.1,Petrol,140,E
+VOLKSWAGEN,Golf,GTI 2.0 TFSI 220PS Stop-Start 3 / 5 door ,M6,47.1,Petrol,139,E
+VOLKSWAGEN,Golf,GTI 2.0 TFSI 230PS 3 / 5 door Stop-Start,M6,47.1,Petrol,139,E
+VOLKSWAGEN,Polo,1.8 TSI 192PS GTi,M6,47.1,Petrol,139,E
+VOLKSWAGEN C.V.,Caddy Maxi Life,1.4 TSI 125PS BMT,M6,47.1,Petrol,138,E
+VOLKSWAGEN C.V.,Caravelle Executive Short Wheelbase,2.0 TDI 150PS 7speed DSG BMT,D7,47.1,Diesel,155,G
+VOLKSWAGEN C.V.,Caravelle Generation Six,2.0 TDI 150PS 7speed DSG BMT,D7,47.1,Diesel,155,G
+VOLKSWAGEN C.V.,Caravelle SE Short Wheelbase,2.0 TDI 150PS 7speed DSG BMT,D7,47.1,Diesel,155,G
+VOLKSWAGEN C.V.,Transporter Shuttle S Long Wheelbase,2.0 TDI 102PS BMT,M5,47.1,Diesel,155,G
+VOLKSWAGEN C.V.,Transporter Shuttle S Short Wheelbase,2.0 TDI 84PS BMT,M5,47.1,Diesel,155,G
+VOLKSWAGEN C.V.,Transporter Shuttle SE Long Wheelbase,2.0 TDI 102PS BMT,M5,47.1,Diesel,155,G
+VOLKSWAGEN C.V.,Transporter Window Van T30 and T32 Long Wheelbase Low Roof,2.0 TDI 150PS BMT,M6,47.1,Diesel,157,G
+VOLKSWAGEN C.V.,Transporter Window Van T30 and T32 Short Wheelbase Low Roof,2.0 TDI 150PS BMT,M6,47.1,Diesel,157,G
+SSANGYONG,Tivoli,EX 1.6D 4WD 115PS A/T,6AT,47,Diesel,156,G
+SSANGYONG,Tivoli,EX 1.6D 4WD 115PS A/T,6AT,47,Diesel,156,G
+SSANGYONG,Tivoli,ELX 1.6D 4WD 115ps,6MT,47,Diesel,123,D
+SSANGYONG,Tivoli,ELX 1.6D AUTO 4WD 115ps,6AT,47,Diesel,156,G
+AUDI,A4 Avant,1.8 TFSI 170PS Stop-Start with 18'' wheels,M6,46.3,Petrol,141,F
+AUDI,A4 Saloon,1.8 TFSI 170PS Stop-Start with 19'' wheels,M6,46.3,Petrol,142,F
+AUDI,A5 Coupé,3.0 V6 TDI 245PS quattro 7speed S tronic 18'' wheels,QD7,46.3,Diesel,158,G
+AUDI,A5 Coupé,1.8 TFSI 177PS Stop-Start 19'' wheels,M6,46.3,Petrol,142,F
+AUDI,A5 Sportback,1.8 TFSI 177PS Stop-Start 18'' wheels,M6,46.3,Petrol,141,F
+AUDI,A5 Sportback,3.0 V6 TDI quattro 245PS 7speed S tronic Stop-Start 18'' wheels,QD7,46.3,Diesel,159,G
+AUDI,A6 Saloon,3.0 V6 BiTDI quattro 320PS 8speed Tiptronic 19'' wheels,QA8,46.3,Diesel,161,G
+AUDI,New A3 Cabriolet,2.0 TFSI quattro 190PS 7speed S tronic 17'' wheels,QD7,46.3,Petrol,139,E
+AUDI,New A3 Cabriolet,2.0 TFSI 190PS 7speed S tronic 19'' wheels,D7,46.3,Petrol,138,E
+AUDI,New A4 Avant,2.0 TFSI quattro 252PS 7speed S-tronic 17'' wheels,QD7,46.3,Petrol,139,E
+AUDI,New A4 Avant,2.0 TFSI 190PS 19'' wheels,M6,46.3,Petrol,139,E
+AUDI,New A6 Saloon,3.0 BiTDI quattro V6 320PS 8-speed Tiptronic 19'' wheels,QA8,46.3,Diesel,161,G
+AUDI,Q5,3.0 TDI V6 quattro 258PS 7speed S-tronic Stop-Start 19'' wheels,QD7,46.3,Diesel,161,G
+AUDI,TT Coupé,2.0 TFSI 230PS,M6,46.3,Petrol,141,F
+AUDI,TT Roadster,1.8 TFSI 180PS Stop-Start,M6,46.3,Petrol,142,F
+BMW,"1 Series 3-door F21, From July 2016",120i - 18'' tyres,M6,46.3,Petrol,140,E
+BMW,"1 Series 5-door F20, From July 2016",120i - 18'' tyres,M6,46.3,Petrol,140,E
+BMW,"2 Series Active Tourer F45, From September 2014",220i Active Tourer - 18'' tyres,M6,46.3,Petrol,142,F
+BMW,"2 Series Convertible F23, From July 2016",220i - 17'' tyres,A8,46.3,Petrol,138,E
+BMW,"2 Series Convertible F23, From July 2016",220i - 18'' tyres,A8,46.3,Petrol,140,E
+BMW,"2 Series Coupé F22, From July 2016",220i - 18'' tyres,M6,46.3,Petrol,140,E
+BMW,"2 Series Gran Tourer F46, From June 2015",220i Gran Tourer - 18'' tyres,A8,46.3,Petrol,142,F
+BMW,"3 Series Gran Turismo F34, From July 2016",320i - 19'' tyres,A8,46.3,Petrol,139,E
+BMW,"3 Series Saloon F30, From February 2012",320i xDrive Saloon - 18'' & 19'' tyres,A8,46.3,Petrol,142,F
+BMW,"3 Series Touring F31, from September 2012",320i Touring - 16'' & 17'' tyres,M6,46.3,Petrol,141,F
+BMW,"3 Series Touring F31, from September 2012",330i Touring - 18'' & 19'' tyres,A8,46.3,Petrol,143,F
+BMW,"4 Series Coupé F32, From October 2013",420i Coupé - 17'' tyres,M6,46.3,Petrol,144,F
+BMW,"4 Series Coupé F32, From October 2013",420i Coupé - 18'' & 19'' tyres,A8,46.3,Petrol,141,F
+BMW,"4 Series Coupé F32, From March 2016",420i Coupé - 18'' & 19'' tyres,M6,46.3,Petrol,141,F
+BMW,"4 Series Gran Coupé F36, From June 2014",420i Gran Coupé - 17'' tyres,A8,46.3,Petrol,142,F
+AUDI,Q5,2.0 TFSI quattro 230PS Tiptronic Stop-Start 19'' wheels,QA8,38.2,Petrol,172,H
+BMW,"2 Series Convertible F23, From July 2016",M240i - 18'' tyres,A8,38.2,Petrol,169,H
+BMW,"4 Series Coupé F32, From October 2013",435i Coupé - 18'' & 19'' tyres,A8,38.2,Petrol,172,H
+FIAT,"Doblo, 2015 onwards",1.4 16v 95 bhp High Roof ,M5,38.2,Petrol,171,H
+FORD,"All New Mondeo , Model Year Post 2017",2.0 EcoBoost SCTi fitted with Optional 18'' and 19'' Alloy Wheels (240PS) - Hatchback,A6,38.2,Petrol,171,H
+FORD,"All New Mondeo , Model Year Pre 2017",2.0 EcoBoost SCTi fitted with Optional 18'' and 19'' Alloy Wheels (240PS) - Hatchback,A6,38.2,Petrol,171,H
+FORD,"Kuga, Model Year Post 2017",1.5 EcoBoost (182PS),A6-AWD,38.2,Petrol,171,H
+FORD,"Kuga , Model Year Pre 2017",1.5 EcoBoost (182PS),A6-AWD,38.2,Petrol,171,H
+FORD,"Kuga Vignale, Model Year Post 2017",1.5 EcoBoost (182PS),A6-AWD,38.2,Petrol,171,H
+FORD,"Mondeo Vignale, Model Year Post 2016¾",2.0 EcoBoost SCTi (240PS) - Hatchback,A6,38.2,Petrol,171,H
+FORD,"Mondeo Vignale, Model Year Pre 2016¾",2.0 EcoBoost SCTi (240PS) - Hatchback,A6,38.2,Petrol,171,H
+HONDA,"CR-V, Model Year 2015","2.0 i-VTEC 4WD SE, SE Navi",M6,38.2,Petrol,173,H
+KIA,cee'd,'GT' 1.6 T-GDi 201bhp,M6,38.2,Petrol,170,H
+KIA,pro_cee'd,'GT' 1.6 T-GDi 201bhp,M6,38.2,Petrol,170,H
+MERCEDES-BENZ,"GLA Class, Model Year 2016",AMG GLA 45 4MATIC with 19'' rear wheels,A7,38.2,Petrol,172,H
+MERCEDES-BENZ,"GLA Class, Model Year 2016",AMG GLA 45 4MATIC with 20'' rear wheels,A7,38.2,Petrol,172,H
+MERCEDES-BENZ,"GLA Class, Model Year 2017",AMG GLA 45 4MATIC with 19'' rear wheels,A7,38.2,Petrol,172,H
+MERCEDES-BENZ,"GLA Class, Model Year 2017",AMG GLA 45 4MATIC with 20'' rear wheels,A7,38.2,Petrol,172,H
+PORSCHE,718,Cayman,M7,38.2,Petrol,168,H
+PORSCHE,718,Boxster,M7,38.2,Petrol,168,H
+PORSCHE,911 (991 II),Carrera Coupé PDK,A7,38.2,Petrol,169,H
+TOYOTA,"Land Cruiser, MY2016",5 door 2.8 D-4D 6-speed Manual,6MT,38.2,Diesel,194,J
+TOYOTA,"Land Cruiser, MY2016",5 door 2.8 D-4D Auto,6AT,38.2,Diesel,194,J
+VAUXHALL,"Astra 5 Door Sports Tourer, Model Year 2015","1.6i 115PS SRi 16v VVT with 16'', 17'' & 18'' wheels",A6,38.2,Petrol,174,H
+VAUXHALL,"Insignia 5 Door Sports Tourer, Model Year 2016","2.0i 250PS SRi VX-Line NAV Turbo Stop/Start with 17'', 18'', 19'' and 20'' wheels",M6,38.2,Petrol,174,H
+VOLKSWAGEN,New Tiguan,2.0 TSI 180PS 4MOTION 7speed DSG Stop-Start SEL,QD7,38.2,Petrol,170,H
+VOLKSWAGEN,New Tiguan,2.0 TSI 180PS 4MOTION 7speed DSG Stop-Start R-Line,QD7,38.2,Petrol,170,H
+SSANGYONG,Rexton W,EX 2.2D A/T ,AT,38,Diesel,194,J
+SSANGYONG,Rexton W,ELX 2.2D,AT,38,Diesel,194,J
+SSANGYONG,Rexton W,EX 2.2D A/T ,A7,38,Diesel,194,J
+SSANGYONG,Rexton W,ELX 2.2D,A7,38,Diesel,194,J
+SSANGYONG,Rexton W,SE 2.2D A/T,AT,38,Diesel,194,J
+SSANGYONG,Turismo,EX 2.2D 178ps,6AT,38,Diesel,196,J
+AUDI,A8,4.2 TDI V8 quattro 385PS SWB Stop-Start 8speed Tiptronic 21'' wheels,QA8,37.7,Diesel,196,J
+AUDI,New A4 Avant,S4 3.0 TFSI quattro V6 354PS 8-speed Tiptronic 18'' wheels,QA8,37.7,Petrol,171,H
+AUDI,New A4 Saloon,S4 3.0 TFSI quattro V6 354PS 8-speed Tiptronic 19'' wheels,QA8,37.7,Petrol,170,H
+AUDI,Q5,2.0 TFSI quattro 230PS Tiptronic Stop-Start 20'' wheels,QA8,37.7,Petrol,174,H
+AUDI,TT Roadster,2.0 TTS quattro 310PS,QM6,37.7,Petrol,173,H
+BMW,"1 Series 3-door F21, From September 2012",M135i 18'' tyres,A8,37.7,Petrol,175,H
+BMW,"1 Series 5-door F20, From September 2011",M135i 18'' tyres,A8,37.7,Petrol,175,H
+BMW,"5 Series F10/F11, From March 2010",535i Saloon - 18'' tyres all-round,A8,37.7,Petrol,174,H
+CHRYSLER JEEP,"Jeep Cherokee, MY 2015",3.0 CRD Low Output,A8,37.7,Diesel,198,J
+CHRYSLER JEEP,"Jeep Grand Cherokee, MY 2015",3.0 CRD High Output,A8,37.7,Diesel,198,J
+CHRYSLER JEEP,"Jeep Grand Cherokee, MY2016",3.0 high output 3.45 axle ratio,A8,37.7,Diesel,184,I
+CHRYSLER JEEP,"Jeep Grand Cherokee, MY2016",3.0 low output,A8,37.7,Diesel,184,I
+CHRYSLER JEEP,"Jeep Grand Cherokee, MY2017",3.0 3.45 axle ratio,A8,37.7,Diesel,184,I
+FORD,"All New Mondeo , Model Year Post 2017",2.0 EcoBoost SCTi (240PS) - Estate,A6,37.7,Petrol,174,H
+FORD,"All New Mondeo , Model Year Pre 2017",2.0 EcoBoost SCTi (240PS) - Estate,A6,37.7,Petrol,174,H
+HONDA,"CR-V, Model Year 2015","2.0 i-VTEC 2WD SE, SE Navi",A5,37.7,Petrol,175,H
+HYUNDAI,i800,2.5l CRDi 100kW,M6,37.7,Diesel,197,J
+HYUNDAI,Tucson,1.6 T-GDi 4WD,DCT7,37.7,Petrol,175,H
+JAGUAR,"XE Saloon, 16MY",2.0L GTDI (200PS & 240PS) Automatic,A8,37.7,Petrol,179,I
+JAGUAR,"XF Saloon, 16MY",2.0L GTDI (240PS) Automatic (RWD),A8,37.7,Petrol,179,I
+KIA,Sportage,'GT-Line' 1.6 T-GDi 174bhp DCT,DCT7,37.7,Petrol,175,H
+LOTUS,Elise,Elise Sport 220,M6,37.7,Petrol,173,H
+LOTUS,Elise,Elise 220 Cup,M6,37.7,Petrol,175,H
+LOTUS,Elise,Elise Cup 250,M6,37.7,Petrol,175,H
+MERCEDES-BENZ,"CLS Coupé, Model Year 2017",CLS 400 with 19'' rear wheels,A9,37.7,Petrol,169,H
+MERCEDES-BENZ,"E-Class Cabriolet, Model Year 2016",E 400 with 18'' rear wheels,A7,37.7,Petrol,173,H
+MERCEDES-BENZ,"E-Class Cabriolet, Model Year 2016",E 400 with 19'' rear wheels,A7,37.7,Petrol,173,H
+MINI,"Countryman R60, From September 2010",MINI John Cooper Works - 18'' tyres,A6,37.7,Petrol,175,H
+PORSCHE,911 (991 II),Carrera Cabriolet PDK,A7,37.7,Petrol,172,H
+RENAULT,"Mégane Coupé Euro6 , 2015",TCE 220 S/S,M6,37.7,Petrol,167,H
+RENAULT,"Mégane Hatchback Euro6, 2015",TCE 220 S/S,M6,37.7,Petrol,167,H
+RENAULT,"Megane Renault Sport Euro6, 2015",275,M6,37.7,Petrol,174,H
+RENAULT,"Mégane Sport Tourer Euro6, 2015",TCE 220S/S,M6,37.7,Petrol,167,H
+VAUXHALL,"Corsa 3 Door Hatchback, Model Year 2015",1.6i 210PS VXR Turbo with 17'' & 18'' wheels,M6,37.7,Petrol,174,H
+VAUXHALL,"Corsa 3 Door Hatchback , Model Year 2016","1.6i 205PS VXR Turbo with 17"" and 18"" wheel.",M6,37.7,Petrol,174,H
+VAUXHALL,"Corsa 5 Door Hatchback, Model Year 2016","1.6i 205PS VXR Turbo with 17"" and 18"" wheel.",M6,37.7,Petrol,174,H
+AUDI,A5 Cabriolet,2.0 TFSI quattro 230PS 7speed S tronic Stop-Start with 19'' wheels,QD7,37.2,Petrol,175,H
+AUDI,New A4 Avant,S4 3.0 TFSI quattro V6 354PS 8-speed Tiptronic 19'' wheels,QA8,37.2,Petrol,175,H
+AUDI,Q5,2.0 TFSI quattro 230PS Stop-Start 18'' wheels,QM6,37.2,Petrol,173,H
+AUDI,Q7,SQ7 4.0 TDI V8 quattro 435PS 8speed Tiptronic with 21'' & 22'' wheels,QD8,37.2,Diesel,199,J
+BMW,"2 Series Coupé F22, From March 2014",M235i Coupé - 18'' tyres,A8,37.2,Petrol,176,I
+BMW,"4 Series Gran Coupé F36, From June 2014",435i Gran Coupé - 18'' & 19'' tyres,A8,37.2,Petrol,178,I
+BMW,"6 Series Coupé F13, From March 2011",640i - 18'' tyres,A8,37.2,Petrol,176,I
+BMW,"6 Series Gran Coupé F06 , From June 2012",640i Gran Coupé - 18'' tyres,A8,37.2,Petrol,178,I
+CHRYSLER JEEP,"Jeep Compass, MY 2015",2.0 4x2,M5,37.2,Petrol,175,H
+FORD,"All New Mondeo , Model Year Post 2017",2.0 EcoBoost SCTi fitted with Optional 18'' and 19'' Alloy Wheels (240PS) - Estate,A6,37.2,Petrol,176,I
+FORD,"All New Mondeo , Model Year Pre 2017",2.0 EcoBoost SCTi fitted with Optional 18'' and 19'' Alloy Wheels (240PS) - Estate,A6,37.2,Petrol,176,I
+FORD,"Mondeo Vignale, Model Year Post 2016¾",2.0 EcoBoost SCTi (240PS) - Estate,A6,37.2,Petrol,176,I
+FORD,"Mondeo Vignale, Model Year Pre 2016¾",2.0 EcoBoost SCTi (240PS) - Estate,A6,37.2,Petrol,176,I
+HONDA,"CR-V, Model Year 2015","2.0 i-VTEC 4WD EX, SR",M6,37.2,Petrol,177,I
+KIA,Sportage,'GT-Line' 1.6 T-GDi 174bhp,M6,37.2,Petrol,177,I
+MERCEDES-BENZ,"GLS, Model Year 2017",GLS 350 d 4MATIC with 21'' rear wheels,A9,37.2,Diesel,199,J
+AUDI,A4 Saloon,S4 3.0 TFSI V6 quattro 333PS 7speed S tronic 18'' wheels,QD7,36.7,Petrol,179,I
+AUDI,A7 Sportback,3.0 V6 TFSI quattro 333PS 7speed S tronic Stop-Start 19'' wheels,QD7,36.7,Petrol,178,I
+BMW,"3 Series Gran Turismo F34, From June 2013",335i Gran Turismo - 18'' tyres,A8,36.7,Petrol,179,I
+BMW,"3 Series Saloon F30, From February 2012",340i Saloon - 18'' & 19'' tyres,M6,36.7,Petrol,179,I
+BMW,"4 Series Convertible F33, From March 2014",435i Convertible - 18'' & 19'' tyres,A8,36.7,Petrol,179,I
+BMW,"4 Series Coupé F32, From March 2016",440i Coupé - 18'' & 19'' tyres,M6,36.7,Petrol,179,I
+BMW,"5 Series F10/F11, From March 2010",535i Saloon - mixed 18'' & 19'' tyres,A8,36.7,Petrol,179,I
+BMW,"5 Series F10/F11, From March 2010",535i Touring - 18'' tyres,A8,36.7,Petrol,179,I
+BMW,"6 Series Convertible F12, From March 2011",640i - 18'' tyres,A8,36.7,Petrol,179,I
+BMW,"6 Series Coupé F13, From March 2011",640i - 19'' & 20'' tyres,A8,36.7,Petrol,180,I
+FORD,"All New Focus, Model Year Post 2017",2.3 EcoBoost (350PS) With Stop/Start - 5 Door,M6,36.7,Petrol,175,H
+FORD,"All New Focus, Model Year Pre 2017",2.3 EcoBoost (350PS) With Stop/Start - 5 Door,M6,36.7,Petrol,175,H
+HONDA,"CR-V, Model Year 2015","2.0 i-VTEC EX, SR",A5,36.7,Petrol,179,I
+LAND ROVER,Discovery 16MY,"3.0L TDV6 (210PS, 249PS & 256PS)",A8-AWD,36.7,Diesel,203,K
+MERCEDES-BENZ,"SL, Model Year 2016",SL 400 with 19'' wheels,A7,36.7,Petrol,179,I
+MERCEDES-BENZ,"A-Class, Model Year 2016","A180 d with 16"" rear wheels",M6,80.7,Diesel,89,A
+MERCEDES-BENZ,"A-Class, Model Year 2017",A180 d with 16'' rear wheels,M6,80.7,Diesel,89,A
+MINI,"3-door Hatchback F56, From March 2014",MINI Cooper D - 15'' & 16'' tyres,M6,80.7,Diesel,92,A
+MINI,"3-door Hatchback F56, From March 2014",MINI One D - 17'' & 18'' tyres,M6,80.7,Diesel,92,A
+MINI,"5-door Hatchback F55, From October 2014",MINI One D - 15'' & 16'' tyres,M6,80.7,Diesel,92,A
+PEUGEOT,208,1.6 BlueHDi 75,M5,80.7,Diesel,90,A
+PEUGEOT,208,1.6 BlueHDi 100,M5,80.7,Diesel,90,A
+RENAULT,"Clio Euro6, 2015",dCi 90 Auto EDC ,A6,80.7,Diesel,92,A
+RENAULT,"Clio Euro6, 2015",dCi 110 S/S,M6,80.7,Diesel,90,A
+RENAULT,"Clio Sport Tourer Euro6, 2015",DCI 90 EDC,A6,80.7,Diesel,92,A
+SKODA,Octavia Estate,1.6 TDI 110PS Stop-Start GreenLine with 16'' wheels,M6,80.7,Diesel,90,A
+SKODA,Octavia Hatchback,1.6 TDI 110PS Stop-Start GreenLine with 16'' wheels,M6,80.7,Diesel,90,A
+TOYOTA,"Auris, MY2015",Hybrid Touring Sport Active 1.8 VVT-i E-CVT,E-CVT,80.7,Petrol Hybrid,81,A
+TOYOTA,"Auris, MY2015",Hybrid Active 1.8 VVT-i E-CVT,E-CVT,80.7,Petrol Hybrid,79,A
+TOYOTA,"Auris, MY2015","4dr 1.4D 16"" Alloys",6MT,80.7,Diesel,92,A
+TOYOTA,"Yaris, 2016","1.4 D-4D 6-speed Manual with 15"" wheels",6MT,80.7,Diesel,91,A
+VAUXHALL,"Astra 5 Door Sports Tourer, Model Year 2016",1.6 CDTi 100PS SRi NAV ecoFLEX Stop/Start with 16'' and 17'' wheels,M6,80.7,Diesel,92,A
+BMW,"1 Series 3-door F21, From September 2012","116d 16"" tyres",M6,78.5,Diesel,94,A
+BMW,"1 Series 3-door F21, From September 2012",116d 16'' tyres,A8,78.5,Diesel,96,A
+BMW,"1 Series 5-door F20, From September 2011",116d 16'' tyres,M6,78.5,Diesel,94,A
+BMW,"1 Series 5-door F20, From September 2011",116d 16'' tyres,A8,78.5,Diesel,96,A
+CITROEN,C4,"BlueHDi 120 S&S (16"" wheels)",M6,78.5,Diesel,95,A
+CITROEN,C4,BlueHDi 100,M5,78.5,Diesel,95,A
+CITROEN,C4 Cactus,BlueHDi 100,M5,78.5,Diesel,95,A
+CITROEN,New C3,BlueHDi 75 S&S 16/17 inch wheels,M5,78.5,Diesel,93,A
+DS,DS3,BlueHDi 120 S&S,M6,78.5,Diesel,94,A
+DS,New DS3,BlueHDi 120 S&S,M6,78.5,Diesel,94,A
+DS,New DS3 Cabriolet,BlueHDi 120 S&S,M6,78.5,Diesel,94,A
+FORD,"All New Mondeo , Model Year Post 2017",1.5 Duratorq TDCi ECOnetic + DPF (120PS) - Hatchback ,M6,78.5,Diesel,94,A
+FORD,"All New Mondeo , Model Year Pre 2017",1.5 Duratorq TDCi ECOnetic + DPF (120PS) - Hatchback ,M6,78.5,Diesel,94,A
+FORD,"Fiesta , Model Year Post 2016",1.5 Duratorq TDCi (95PS) ,M5,78.5,Diesel,94,A
+FORD,"Fiesta , Model Year Post 2016",1.5 Duratorq TDCi (75PS),M5,78.5,Diesel,94,A
+FORD,"Fiesta, Model Year Post 2017",1.5 Duratorq TDCi (95PS) ,M5,78.5,Diesel,94,A
+FORD,"Fiesta , Model Year Pre 2017",1.5 Duratorq TDCi (75PS),M5,78.5,Diesel,94,A
+FORD,"Fiesta , Model Year Pre 2017",1.5 Duratorq TDCi (95PS) ,M5,78.5,Diesel,94,A
+FORD,"Fiesta, Model Year Post 2017",1.5 Duratorq TDCi (75PS) ,M5,78.5,Diesel,94,A
+HONDA,"Civic Hatchback, Model Year 2015","1.6 i-DTEC SE Plus Navi, SR,",M6,78.5,Diesel,94,A
+KIA,cee'd,'1' 1.6 CRDi 134bhp ISG ,M6,78.5,Diesel,94,A
+KIA,Rio 5-door,'1 Air' 1.1 CRDi 74bhp ISG,M6,78.5,Diesel,94,A
+KIA,Rio 5-door,'2' 1.1 CRDi 74bhp ISG,M6,78.5,Diesel,94,A
+KIA,Rio 5-door,'SR7' 1.1 CRDi 74bhp ISG,M6,78.5,Diesel,94,A
+KIA,Rio 5-door,'SE' 1.1 CRDi 74bhp ISG,M6,78.5,Diesel,94,A
+LEXUS,"CT200h, MY2017",CT200h S,E-CVT,78.5,Petrol Hybrid,82,A
+MERCEDES-BENZ,"C-Class Saloon, Model Year 2016",C 300 h with 17'' rear wheels,A7,78.5,Diesel Electric,94,A
+MERCEDES-BENZ,"C-Class Saloon, Model Year 2016",C 300 h with 16'' rear wheels,A7,78.5,Diesel Electric,94,A
+MERCEDES-BENZ,"C-Class Saloon, Model Year 2017",C 300 h with 17'' rear wheels,A7,78.5,Diesel Electric,94,A
+MERCEDES-BENZ,"C-Class Saloon, Model Year 2017",C 300 h with 16'' rear wheels,A7,78.5,Diesel Electric,94,A
+MINI,"3-door Hatchback F56, From March 2014",MINI Cooper D - 17'' & 18'' tyres,M6,78.5,Diesel,95,A
+MINI,"5-door Hatchback F55, From October 2014",MINI Cooper D - 15'' & 16'' tyres,M6,78.5,Diesel,95,A
+MINI,"5-door Hatchback F55, From October 2014",MINI One D - 17'' & 18'' tyres,M6,78.5,Diesel,94,A
+NISSAN,"Micra Euro6 , 2015",1.5 dCi,M5,78.5,Diesel,93,A
+NISSAN,"Note Euro6, 2015",1.5 dCi,M5,78.5,Diesel,93,A
+NISSAN,"Pulsar Euro6, 2015",dCi 110,M6,78.5,Diesel,94,A
+PEUGEOT,208,1.6 BlueHDi 120 S&S,M6,78.5,Diesel,94,A
+PEUGEOT,308,1.6 BlueHDi 100 S&S Access/Active,M5,78.5,Diesel,94,A
+PEUGEOT,308,1.6 BlueHDi 120 EAT6 S&S (16 inch wheels) 10/16 production onward,A6,78.5,Diesel,95,A
+PEUGEOT,308 SW,1.6 BlueHDi 100 S&S Access/Active,M5,78.5,Diesel,94,A
+RENAULT,"Captur Euro6, 2015",Energy dCi 90 Stop Start,M5,78.5,Diesel,95,A
+RENAULT,"Mégane Coupé Euro6 , 2015",Energy DCI 110 S/S,M6,78.5,Diesel,93,A
+RENAULT,"Mégane Hatchback Euro6, 2015",DCI 110 S/S,M6,78.5,Diesel,93,A
+RENAULT,"Mégane Sport Tourer Euro6, 2015",DCI 110 S/S,M6,78.5,Diesel,93,A
+SEAT,Ibiza SC,1.2 TDI 75PS Ecomotive,M5,78.5,Diesel,93,A
+SEAT,Leon 5 Door,1.6 TDI 110PS Ecomotive,M6,78.5,Diesel,94,A
+SEAT,Leon ST,1.6 TDI 110PS Ecomotive,M6,78.5,Diesel,94,A
+SKODA,Fabia Estate,1.4 TDI 90PS with optional 15'' low rolling resistance tyre,M6,78.5,Diesel,96,A
+SKODA,Fabia Estate,1.4 TDI 75PS with optional 15'' low rolling resistance tyre,M6,78.5,Diesel,96,A
+SKODA,Fabia Hatchback,1.4 TDI 90PS with optional 15'' low rolling resistance tyre,M6,78.5,Diesel,95,A
+SKODA,Fabia Hatchback,1.4 TDI 75PS with optional 15'' low rolling resistance tyre,M6,78.5,Diesel,95,A
+SKODA,Rapid,1.4 TDI 90PS Stop-Start,M5,78.5,Diesel,96,A
+SKODA,Rapid Spaceback,1.4 TDI 90PS Stop-Start,M5,78.5,Diesel,96,A
+TOYOTA,"Auris, MY2015",Hybrid Touring Sport Icon & Business Edition 1.8 VVT-i E-CVT,E-CVT,78.5,Petrol Hybrid,83,A
+TOYOTA,"Auris, MY2015",Hybrid Icon & Business Edition 1.8 VVT-i E-CVT,E-CVT,78.5,Petrol Hybrid,82,A
+TOYOTA,"Yaris, 2016",Excel 1.5 VVT-i hybrid E-CVT,E-CVT,78.5,Petrol Hybrid,82,A
+TOYOTA,"Yaris, 2016","1.5 VVT-i Auto - 16 "" alloys",6AT,78.5,Petrol Hybrid,82,A
+TOYOTA,"Yaris, 2016",Sport 1.5 VVT-i hybrid E-CVT with 16'' wheels,E-CVT,78.5,Petrol Hybrid,82,A
+TOYOTA,"Yaris, 2016",1.5 VVT-i Auto with 16inch alloy wheels,E-CVT,78.5,Petrol Hybrid,82,A
+TOYOTA,"Yaris, 2016",Orange Edition 1.5 VVT-i hybrid E-CVT with 16'' wheels,E-CVT,78.5,Petrol Hybrid,82,A
+VAUXHALL,"Corsa 5 Door Hatchback, Model Year 2016",1.3 CDTi 75PS SE Stop/Start ecoFLEX with 16'' wheels,M5,78.5,Diesel,96,A
+VOLKSWAGEN,Polo,1.4 TDI 90PS Stop-Start SEL,M5,78.5,Diesel,93,A
+VOLKSWAGEN,Polo,1.4 TDI 75PS Stop-Start Match,M5,78.5,Diesel,93,A
+VOLKSWAGEN,Polo,1.4 TDI 90PS Stop-Start R-Line,M5,78.5,Diesel,93,A
+VOLKSWAGEN,Polo,1.4 TDI 75PS Stop-Start beats,M5,78.5,Diesel,93,A
+VOLVO,"V40, MY16",D2,6MT,78.5,Diesel,94,A
+HYUNDAI,i30,1.6l 81kW Blue Drive,M6,78.4,Diesel,94,A
+SUZUKI,Celerio,1.0 Dualjet,M5,78.4,Petrol,84,A
+MERCEDES-BENZ,"A-Class, Model Year 2016","A180 d with 16"" rear wheels",A7,76.4,Diesel,98,A
+MERCEDES-BENZ,"A-Class, Model Year 2017",A180 d with 16'' rear wheels,A7,76.4,Diesel,98,A
+MERCEDES-BENZ,"GLE Estate, Model Year 2016½",GLE 500 e 4MATIC with 20'' rear wheels,A7,76.4,Electricity / Petrol,84,A
+MERCEDES-BENZ,"GLE Estate, Model Year 2017",GLE 500 e 4MATIC with 20'' rear wheels,A7,76.4,Electricity / Petrol,84,A
+RENAULT,"Captur Euro6, 2015",Energy dCi 110 Stop Start,M6,76.4,Diesel,98,A
+RENAULT,Megane 2016,dCi 110 16/17 inch wheel,M6,76.4,Diesel,96,A
+VOLVO,"V40, MY16",D2 Cross Country,6MT,76.4,Diesel,96,A
+VOLVO,V40 MY17,D2 Cross Country,6MT,76.4,Diesel,96,A
+AUDI,A1,1.6 TDI 116PS 15'' wheels,M5,76.3,Diesel,97,A
+AUDI,A1,1.6 TDI 116PS 16'' wheels,M5,76.3,Diesel,97,A
+AUDI,A1,1.6 TDI 116PS 17'' wheels,M5,76.3,Diesel,98,A
+AUDI,A1 Sportback,1.6 TDI 116PS 15'' wheels,M5,76.3,Diesel,97,A
+AUDI,A1 Sportback,1.6 TDI 116PS 16'' wheels,M5,76.3,Diesel,97,A
+AUDI,A1 Sportback,1.6 TDI 116PS 17'' wheels,M5,76.3,Diesel,98,A
+CITROEN,New C3,BlueHDi 100 S&S 16/17 inch wheels,M5,76.3,Diesel,95,A

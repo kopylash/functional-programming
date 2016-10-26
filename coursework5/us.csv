@@ -1,0 +1,2387 @@
+Model	Displ	Cyl	Trans	Drive	Fuel	Cert Region	Stnd	Stnd Description	Underhood ID	Veh Class	Air Pollution Score	City MPG	Hwy MPG	Cmb MPG (float)	Greenhouse Gas Score	SmartWay	Comb CO2 (float)
+ACURA RDX	3.5	6	SemiAuto-6	2WD	Petrol	CA	U2	California LEV-II ULEV	GHNXT03.5GV3	small SUV	6	20	29	23	5	No	384
+ACURA RDX	3.5	6	SemiAuto-6	4WD	Petrol	CA	U2	California LEV-II ULEV	GHNXT03.5GV3	small SUV	6	19	28	22	5	No	400
+ACURA RLX	3.5	6	AutoMan-7	4WD	Petrol	FA	B3	Federal Tier 2 Bin 3	GHNXV03.5PK3	midsize car	7	28	32	30	7	Yes	297
+ACURA TLX	3.5	6	AutoMan-7	4WD	Petrol	CA	L3SULEV30	California LEV-III SULEV30	GHNXV03.5PK3	midsize car	8	28	32	30	7	Yes	297
+ACURA TLX	3.5	6	SemiAuto-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GHNXV03.5SA4	midsize car	5	20	31	24	5	No	378
+AUDI A3 Cabriolet	3.5	6	SemiAuto-6	2WD	Petrol	CA	U2	California LEV-II ULEV	GHNXV03.5SA4	midsize car	6	20	31	24	5	No	378
+AUDI A3 Cabriolet	2.4	4	AMS-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GHNXJ02.41A3	small car	5	24	35	28	7	No	316
+AUDI A3 Cabriolet	2.4	4	AMS-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GHNXJ02.41A3	small car	6	24	35	28	7	Yes	316
+AUDI A3 e-tron	3.5	6	SemiAuto-9	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GHNXV03.5RA3	small car	5	21	34	25	6	No	358
+AUDI A3 e-tron	3.5	6	SemiAuto-9	2WD	Petrol	CA	U2	California LEV-II ULEV	GHNXV03.5RA3	small car	6	21	34	25	6	No	358
+AUDI A3 e-tron ultra	3.5	6	SemiAuto-9	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GHNXV03.5RA3	small car	5	21	31	25	6	No	357
+AUDI A3 e-tron ultra	3.5	6	SemiAuto-9	4WD	Petrol	CA	U2	California LEV-II ULEV	GHNXV03.5RA3	small car	6	21	31	25	6	No	357
+AUDI A4	1.8	4	AutoMan-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GCRXV01.85P0	small car	5	24	34	28	7	No	317
+AUDI A4	1.8	4	AutoMan-6	2WD	Petrol	CA	L2	California LEV-II LEV	GCRXV01.85P0	small car	5	24	34	28	7	No	317
+AUDI A4	5.9	12	SemiAuto-6	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV05.9VH1	small car	5	13	19	15	2	No	587
+AUDI A4	6	12	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV06.0VHB	small car	5	14	22	17	3	No	534
+AUDI A4	6	12	SemiAuto-8	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV06.0VHB	small car	5	14	22	17	3	No	534
+AUDI A4	6	12	AutoMan-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV06.0VHB	small car	5	12	18	14	2	No	628
+AUDI A5	6	12	AutoMan-7	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV06.0VHB	small car	5	12	18	14	2	No	628
+AUDI A5	4.7	8	AutoMan-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV04.7VH2	small car	5	14	21	16	3	No	552
+AUDI A5	4.7	8	AutoMan-7	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV04.7VH2	small car	5	14	21	16	3	No	552
+AUDI A5	4.7	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV04.7VH2	small car	5	13	19	15	2	No	582
+AUDI A5 Cabriolet	4.7	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV04.7VH2	small car	5	13	19	15	2	No	582
+AUDI A6	4.7	8	AutoMan-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV04.7VH2	small car	5	14	21	16	3	No	552
+AUDI A6	4.7	8	AutoMan-7	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV04.7VH2	small car	5	14	21	16	3	No	552
+AUDI A6	4.7	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV04.7VH2	small car	5	13	19	15	2	No	582
+AUDI A6	4.7	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV04.7VH2	small car	5	13	19	15	2	No	582
+AUDI A6	6	12	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV06.0VHB	small car	5	13	21	16	3	No	557
+AUDI A7	6	12	SemiAuto-8	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV06.0VHB	small car	5	13	21	16	3	No	557
+AUDI A7	4.7	8	AutoMan-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV04.7VH2	small car	5	14	21	16	3	No	552
+AUDI A8 L	4.7	8	AutoMan-7	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV04.7VH2	small car	5	14	21	16	3	No	552
+AUDI A8 L	4.7	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GASXV04.7VH2	small car	5	13	19	15	2	No	582
+AUDI A8 L	4.7	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GASXV04.7VH2	small car	5	13	19	15	2	No	582
+AUDI A8 L	1.8	4	AMS-6	2WD	Petrol	FA	B2	Federal Tier 2 Bin 2	GVGAV02.0APA	small car	9	23	33	27	6	No	328
+AUDI A8 L	1.8	4	AMS-6	2WD	Petrol	CA	PZEV	California PZEV	GVGAV02.0APA	small car	9	23	33	27	6	No	328
+AUDI Q3	2	4	AMS-6	4WD	Petrol	FA	B2	Federal Tier 2 Bin 2	GVGAV02.0APA	small car	9	24	33	27	6	No	323
+AUDI Q3	2	4	AMS-6	4WD	Petrol	CA	PZEV	California PZEV	GVGAV02.0APA	small car	9	24	33	27	6	No	323
+AUDI Q5	1.8	4	AMS-6	2WD	Petrol	FA	B2	Federal Tier 2 Bin 2	GVGAV02.0APA	small car	9	24	35	28	7	Yes	314
+AUDI Q5	1.8	4	AMS-6	2WD	Petrol	CA	PZEV	California PZEV	GVGAV02.0APA	small car	9	24	35	28	7	Yes	314
+AUDI Q5	2	4	AMS-6	4WD	Petrol	FA	B2	Federal Tier 2 Bin 2	GVGAV02.0APA	small car	9	23	32	26	6	No	334
+AUDI S5	2	4	Man-6	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV02.0AUB	small car	6	22	32	26	6	No	343
+AUDI S5	2	4	SCV-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV02.0AUB	small car	5	24	31	27	6	No	341
+AUDI S5	2	4	SCV-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV02.0AUB	small car	6	24	31	27	6	No	341
+AUDI TTS Coupe	2	4	AMS-7	2WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GVGAV02.0AAC	midsize car	6	24	35	28	7	Yes	310
+AUDI allroad quattro	2	4	AMS-7	2WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GVGAV02.0AAC	midsize car	6	24	35	28	7	Yes	310
+BENTLEY Continental GT	2	4	SemiAuto-8	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GVGAV02.0AAC	midsize car	6	22	32	26	6	No	340
+BENTLEY Continental GT	2	4	SemiAuto-8	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GVGAV02.0AAC	midsize car	6	22	32	26	6	No	340
+BENTLEY Continental GT Convertible	3	6	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0NU4	midsize car	5	25	38	30	6	No	343
+BENTLEY Continental GT Convertible	3	6	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GVGAJ03.0NU4	midsize car	6	25	38	30	6	No	343
+BENTLEY Continental GT Convertible	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV03.0AUE	midsize car	5	20	30	24	5	No	373
+BENTLEY Flying Spur	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV03.0AUE	midsize car	6	20	30	24	5	No	373
+BENTLEY Flying Spur	3	6	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0NU4	midsize car	5	25	38	30	6	No	343
+BENTLEY Flying Spur	3	6	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GVGAJ03.0NU4	midsize car	6	25	38	30	6	No	343
+BENTLEY Flying Spur	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV03.0AUE	midsize car	5	20	30	24	5	No	373
+BENTLEY Mulsanne	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV03.0AUE	midsize car	6	20	30	24	5	No	373
+BENTLEY Mulsanne	3	6	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0NU4	large car	5	24	36	28	6	No	360
+BMW 228i	3	6	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GVGAJ03.0NU4	large car	6	24	36	28	6	No	360
+BMW 228i	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV03.0AUE	large car	5	19	29	22	5	No	397
+BMW 228i	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV03.0AUE	large car	6	19	29	22	5	No	397
+BMW 228i	4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	large car	5	18	29	22	5	No	410
+BMW 228i	4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	large car	6	18	29	22	5	No	410
+BMW 228i	6.3	12	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV06.3VUM	large car	5	14	22	17	3	No	534
+BMW 228i	6.3	12	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV06.3VUM	large car	6	14	22	17	3	No	534
+BMW 228i	2	4	SemiAuto-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV02.0AUA	small car	5	20	29	23	5	No	389
+BMW 228i Convertible	2	4	SemiAuto-6	2WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV02.0AUA	small car	6	20	29	23	5	No	389
+BMW 228i Convertible	2	4	SemiAuto-6	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV02.0AUA	small car	5	20	28	23	5	No	387
+BMW 320i	3	6	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0NU4	small SUV	5	24	31	27	5	No	385
+BMW 320i	3	6	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GVGAJ03.0NU4	small SUV	6	24	31	27	5	No	385
+BMW 320i	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small SUV	5	18	26	21	5	No	429
+BMW 320i	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small SUV	6	18	26	21	5	No	429
+BMW 320i	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAT02.0AUH	small SUV	5	24	30	26	6	No	337
+BMW 328d	2	4	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAT02.0AUH	small SUV	6	24	30	26	6	No	337
+BMW 328d	4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	midsize car	5	15	25	18	4	No	497
+BMW 328d	4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	midsize car	6	15	25	18	4	No	497
+BMW 328d	2	4	AMS-6	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV02.0AUA	small car	5	23	31	26	6	No	340
+BMW 328d Sports Wagon	2	4	AMS-6	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV02.0AUA	small car	6	23	31	26	6	No	340
+BMW 328d Sports Wagon	3	6	AMS-7	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small car	5	18	28	21	5	No	413
+BMW 328i	3	6	AMS-7	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small car	6	18	28	21	5	No	413
+BMW 328i	3	6	Man-6	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small car	5	17	26	20	4	No	439
+BMW 328i	3	6	Man-6	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small car	6	17	26	20	4	No	439
+BMW 328i	3	6	AMS-7	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small car	5	18	28	21	5	No	413
+BMW 328i	3	6	AMS-7	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small car	6	18	28	21	5	No	413
+BMW 328i	3	6	Man-6	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small car	5	17	26	20	4	No	439
+BMW 328i	3	6	Man-6	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small car	6	17	26	20	4	No	439
+BMW 328i	3	6	AMS-7	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small car	5	18	26	21	5	No	428
+BMW 328i Gran Turismo	3	6	AMS-7	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small car	6	18	26	21	5	No	428
+BMW 328i Gran Turismo	4	8	AMS-7	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	midsize car	5	18	27	21	5	No	423
+BMW 328i Sports Wagon	4	8	AMS-7	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	midsize car	6	18	27	21	5	No	423
+BMW 328i Sports Wagon	4	8	AMS-7	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	midsize car	5	17	27	21	5	No	427
+BMW 330e	4	8	AMS-7	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	midsize car	6	17	27	21	5	No	427
+BMW 330e	4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	midsize car	5	15	25	19	4	No	474
+BMW 335i Gran Turismo	4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	midsize car	6	15	25	19	4	No	474
+BMW 335i Gran Turismo	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAJ03.0AUD	small SUV	5	17	24	19	4	No	458
+BMW 340i	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAJ03.0AUD	small SUV	6	17	24	19	4	No	458
+BMW 340i	2	4	AMS-6	4WD	Petrol	FA	B2	Federal Tier 2 Bin 2	GVGAV02.0APA	small car	9	23	30	26	6	No	336
+BMW 340i	2	4	AMS-6	4WD	Petrol	CA	PZEV	California PZEV	GVGAV02.0APA	small car	9	23	30	26	6	No	336
+BMW 340i	2	4	AMS-6	4WD	Petrol	FA	B2	Federal Tier 2 Bin 2	GVGAV02.0APA	small car	9	23	30	26	6	No	336
+BMW 340i xDrive	2	4	AMS-6	4WD	Petrol	CA	PZEV	California PZEV	GVGAV02.0APA	small car	9	23	30	26	6	No	336
+BMW 340i xDrive	2	4	AMS-6	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV02.0AUA	small car	5	23	27	25	6	No	358
+BMW 340i xDrive	2	4	AMS-6	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV02.0AUA	small car	6	23	27	25	6	No	358
+BMW 428i Convertible	4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	small car	5	15	25	19	4	No	475
+BMW 428i Convertible	4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	small car	6	15	25	19	4	No	475
+BMW 428i Convertible	6	12	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV06.0VLN	small car	5	12	21	15	2	No	580
+BMW 428i Coupe	6	12	SemiAuto-8	4WD	Petrol	CA	L2	California LEV-II LEV	GVGAV06.0VLN	small car	5	12	21	15	2	No	580
+BMW 428i Coupe	4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	small car	5	14	24	17	3	No	517
+BMW 428i Coupe	4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	small car	6	14	24	17	3	No	517
+BMW 428i Coupe	6	12	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV06.0VLN	small car	5	12	20	15	2	No	604
+BMW 428i Coupe	6	12	SemiAuto-8	4WD	Petrol	CA	L2	California LEV-II LEV	GVGAV06.0VLN	small car	5	12	20	15	2	No	604
+BMW 428i Coupe	4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV04.0NUA	midsize car	5	14	24	17	3	No	517
+BMW 428i Coupe	4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GVGAV04.0NUA	midsize car	6	14	24	17	3	No	517
+BMW 428i Coupe	6	12	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV06.0VLN	midsize car	5	12	20	15	2	No	604
+BMW 428i Gran Coupe	6	12	SemiAuto-8	4WD	Petrol	CA	L2	California LEV-II LEV	GVGAV06.0VLN	midsize car	5	12	20	15	2	No	604
+BMW 428i Gran Coupe	6.8	8	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GVGAV06.8ELP	midsize car	5	11	18	13	1	No	656
+BMW 428i Gran Coupe	6.8	8	SemiAuto-8	2WD	Petrol	CA	L2	California LEV-II LEV	GVGAV06.8ELP	midsize car	5	11	18	13	1	No	656
+BMW 428i Gran Coupe	2	4	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	22	34	26	6	No	337
+BMW 428i Gran Coupe	2	4	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	22	34	26	6	No	337
+BMW 428i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	23	35	27	6	No	327
+BMW 435i Convertible	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	23	35	27	6	No	327
+BMW 435i Convertible	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	35	27	6	No	327
+BMW 435i Convertible	2	4	SemiAuto-8	2WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	35	27	6	No	327
+BMW 435i Convertible	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	35	27	6	No	332
+BMW 435i Coupe	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	35	27	6	No	332
+BMW 435i Coupe	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	34	27	6	No	334
+BMW 435i Coupe	2	4	SemiAuto-8	2WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	34	27	6	No	334
+BMW 435i Coupe	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	22	34	26	6	No	338
+BMW 435i Coupe	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	22	34	26	6	No	338
+BMW 435i Coupe	2	4	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	23	36	28	7	No	321
+BMW 435i Coupe	2	4	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	23	36	28	7	Yes	321
+BMW 435i Coupe	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	24	36	28	7	No	319
+BMW 435i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	24	36	28	7	Yes	319
+BMW 435i Gran Coupe	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	23	35	27	6	No	332
+BMW 435i Gran Coupe	2	4	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	23	35	27	6	No	332
+BMW 435i Gran Coupe	2	4	SemiAuto-8	2WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N47	small car	5	32	42	36	7	No	284
+BMW 528i	2	4	SemiAuto-8	2WD	Diesel	CA	U2	California LEV-II ULEV	GBMXV02.0N47	small car	6	32	42	36	7	Yes	284
+BMW 528i	2	4	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N47	small car	5	30	40	34	7	No	299
+BMW 528i	2	4	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GBMXV02.0N47	small car	6	30	40	34	7	Yes	299
+BMW 528i	2	4	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N47	station wagon	5	30	40	34	7	No	299
+BMW 535d	2	4	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GBMXV02.0N47	station wagon	6	30	40	34	7	Yes	299
+BMW 535d	2	4	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	22	34	26	6	No	337
+BMW 535d	2	4	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	22	34	26	6	No	337
+BMW 535d	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	23	35	27	6	No	327
+BMW 535i	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	23	35	27	6	No	327
+BMW 535i	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	35	27	6	No	327
+BMW 535i	2	4	SemiAuto-8	2WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	35	27	6	No	327
+BMW 535i	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	22	34	26	6	No	338
+BMW 535i Gran Turismo	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	22	34	26	6	No	338
+BMW 535i Gran Turismo	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	large car	5	22	34	26	6	No	338
+BMW 535i Gran Turismo	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	large car	8	22	34	26	6	No	338
+BMW 535i Gran Turismo	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	station wagon	5	22	34	26	6	No	338
+BMW 550i	2	4	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	station wagon	6	22	34	26	6	No	338
+BMW 550i	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	large car	5	20	30	23	5	No	374
+BMW 640i	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	large car	6	20	30	23	5	No	374
+BMW 640i	3	6	Man-6	2WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXV03.0B58	small car	6	20	30	23	5	No	384
+BMW 640i	3	6	Man-6	2WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXV03.0B58	small car	6	20	30	23	5	No	384
+BMW 640i	3	6	SemiAuto-8	2WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXV03.0B58	small car	6	22	33	26	6	No	346
+BMW 640i Convertible	3	6	SemiAuto-8	2WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXV03.0B58	small car	6	22	33	26	6	No	346
+BMW 640i Convertible	3	6	Man-6	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXV03.0B58	small car	6	20	29	23	5	No	385
+BMW 640i Convertible	3	6	Man-6	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXV03.0B58	small car	6	20	29	23	5	No	385
+BMW 640i Convertible	3	6	SemiAuto-8	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXV03.0B58	small car	6	22	33	26	6	No	346
+BMW 640i Gran Coupe	3	6	SemiAuto-8	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXV03.0B58	small car	6	22	33	26	6	No	346
+BMW 640i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	34	27	6	No	334
+BMW 640i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	34	27	6	No	334
+BMW 640i Gran Coupe	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	21	33	25	6	No	353
+BMW 650i	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	21	33	25	6	No	353
+BMW 650i	2	4	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	22	34	26	6	No	337
+BMW 650i	2	4	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	22	34	26	6	No	337
+BMW 650i	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	23	35	27	6	No	327
+BMW 650i Convertible	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	23	35	27	6	No	327
+BMW 650i Convertible	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	35	27	6	No	327
+BMW 650i Convertible	2	4	SemiAuto-8	2WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	35	27	6	No	327
+BMW 650i Convertible	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	22	34	26	6	No	338
+BMW 650i Gran Coupe	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	22	34	26	6	No	338
+BMW 650i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	23	34	27	6	No	334
+BMW 650i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	23	34	27	6	No	334
+BMW 650i Gran Coupe	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	23	34	27	6	No	334
+BMW 740i	2	4	SemiAuto-8	2WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	23	34	27	6	No	334
+BMW 740i	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV02.0N26	small car	5	22	34	26	6	No	338
+BMW 750i	2	4	SemiAuto-8	4WD	Petrol	CA	S2	California LEV-II SULEV	GBMXV02.0N26	small car	8	22	34	26	6	No	338
+BMW 750i	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	31	24	5	No	375
+BMW 750i	3	6	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	31	24	5	No	375
+BMW 750i	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	29	23	5	No	382
+BMW ActiveHybrid 5	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	29	23	5	No	382
+BMW ActiveHybrid 5	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	30	23	5	No	383
+BMW Alpina B6 Gran Coupe	3	6	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	30	23	5	No	383
+BMW Alpina B6 Gran Coupe	3	6	Man-6	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	19	28	22	5	No	398
+BMW M2	3	6	Man-6	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	19	28	22	5	No	398
+BMW M2	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	31	24	5	No	370
+BMW M2	3	6	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	31	24	5	No	370
+BMW M2	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	30	23	5	No	374
+BMW M235i	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	30	23	5	No	374
+BMW M235i	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	31	24	5	No	370
+BMW M235i	3	6	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	31	24	5	No	370
+BMW M235i	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	30	23	5	No	374
+BMW M235i	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	30	23	5	No	374
+BMW M235i	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	midsize car	5	23	34	27	6	No	334
+BMW M235i Convertible	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	midsize car	6	23	34	27	6	No	334
+BMW M235i Convertible	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	midsize car	5	22	34	26	6	No	338
+BMW M235i Convertible	2	4	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	midsize car	6	22	34	26	6	No	338
+BMW M235i Convertible	3	6	SemiAuto-8	2WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0N57	midsize car	5	26	38	30	6	No	335
+BMW M235i Convertible	3	6	SemiAuto-8	2WD	Diesel	CA	U2	California LEV-II ULEV	GBMXV03.0N57	midsize car	6	26	38	30	6	No	335
+BMW M235i Convertible	3	6	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0N57	midsize car	5	26	37	30	6	No	338
+BMW M3	3	6	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GBMXV03.0N57	midsize car	6	26	37	30	6	No	338
+BMW M3	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	midsize car	5	20	31	24	5	No	375
+BMW M3	3	6	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	midsize car	6	20	31	24	5	No	375
+BMW M3	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	midsize car	5	20	29	23	5	No	382
+BMW M4 Convertible	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	midsize car	6	20	29	23	5	No	382
+BMW M4 Convertible	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	large car	5	19	28	22	5	No	403
+BMW M4 Convertible	3	6	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	large car	6	19	28	22	5	No	403
+BMW M4 Convertible	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	large car	5	18	26	21	5	No	418
+BMW M4 Coupe	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	large car	6	18	26	21	5	No	418
+BMW M4 Coupe	4.4	8	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	midsize car	5	17	25	20	4	No	452
+BMW M4 Coupe	4.4	8	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	midsize car	6	17	25	20	4	No	452
+BMW M4 Coupe	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	midsize car	5	16	25	19	4	No	463
+BMW M4 GTS	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	midsize car	6	16	25	19	4	No	463
+BMW M4 GTS	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	small car	5	20	31	24	5	No	370
+BMW M5	3	6	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	small car	6	20	31	24	5	No	370
+BMW M5	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	small car	5	20	29	23	5	No	382
+BMW M5	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	small car	6	20	29	23	5	No	382
+BMW M5	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	small car	5	20	31	24	5	No	375
+BMW M6 Convertible	3	6	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	small car	6	20	31	24	5	No	375
+BMW M6 Convertible	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	small car	5	20	29	23	5	No	382
+BMW M6 Convertible	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	small car	6	20	29	23	5	No	382
+BMW M6 Convertible	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	small car	5	20	31	24	5	No	375
+BMW M6 Coupe	3	6	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	small car	6	20	31	24	5	No	375
+BMW M6 Coupe	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0F10	small car	5	20	29	23	5	No	382
+BMW M6 Coupe	3	6	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0F10	small car	6	20	29	23	5	No	382
+BMW M6 Coupe	4.4	8	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	17	25	20	4	No	452
+BMW M6 Gran Coupe	4.4	8	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	17	25	20	4	No	452
+BMW M6 Gran Coupe	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	16	25	19	4	No	463
+BMW M6 Gran Coupe	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	16	25	19	4	No	463
+BMW M6 Gran Coupe	4.4	8	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	17	25	20	4	No	452
+BMW X1 xDrive28i	4.4	8	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	17	25	20	4	No	452
+BMW X1 xDrive28i	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	15	24	18	4	No	484
+BMW X3 sDrive28i	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	15	24	18	4	No	484
+BMW X3 sDrive28i	4.4	8	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	17	25	20	4	No	452
+BMW X3 xDrive28d	4.4	8	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	17	25	20	4	No	452
+BMW X3 xDrive28d	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	15	24	18	4	No	484
+BMW X3 xDrive28i	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	15	24	18	4	No	484
+BMW X3 xDrive28i	3	6	SemiAuto-8	2WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXV03.0B58	large car	6	21	29	24	5	No	371
+BMW X3 xDrive35i	3	6	SemiAuto-8	2WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXV03.0B58	large car	6	21	29	24	5	No	371
+BMW X3 xDrive35i	4.4	8	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	large car	5	17	25	20	4	No	436
+BMW X4 M40i	4.4	8	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	large car	6	17	25	20	4	No	436
+BMW X4 M40i	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	large car	5	16	25	19	4	No	459
+BMW X4 xDrive28i	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	large car	6	16	25	19	4	No	459
+BMW X4 xDrive28i	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0AH5	midsize car	5	23	30	26	6	No	346
+BMW X4 xDrive35i	3	6	SemiAuto-8	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0AH5	midsize car	6	23	30	26	6	No	346
+BMW X4 xDrive35i	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4N63	small car	5	15	24	18	4	No	484
+BMW X5 M	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV04.4N63	small car	6	15	24	18	4	No	484
+BMW X5 M	3	6	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	27	23	5	No	393
+BMW X5 sDrive35i	3	6	AMS-7	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	27	23	5	No	393
+BMW X5 sDrive35i	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	18	26	21	5	No	429
+BMW X5 xDrive35d	3	6	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	18	26	21	5	No	429
+BMW X5 xDrive35d	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	19	28	22	5	No	395
+BMW X5 xDrive35i	3	6	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	19	28	22	5	No	395
+BMW X5 xDrive35i	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	31	24	5	No	370
+BMW X5 xDrive40e	3	6	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	31	24	5	No	370
+BMW X5 xDrive40e	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	30	23	5	No	374
+BMW X5 xDrive50i	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	30	23	5	No	374
+BMW X5 xDrive50i	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	19	26	22	5	No	408
+BMW X6 M	3	6	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	19	26	22	5	No	408
+BMW X6 M	3	6	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	31	24	5	No	370
+BMW X6 sDrive35i	3	6	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	31	24	5	No	370
+BMW X6 sDrive35i	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small car	5	20	30	23	5	No	374
+BMW X6 xDrive35i	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small car	6	20	30	23	5	No	374
+BMW X6 xDrive35i	3	6	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	17	24	19	4	No	459
+BMW X6 xDrive50i	3	6	AMS-7	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	17	24	19	4	No	459
+BMW X6 xDrive50i	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	17	26	20	4	No	439
+BMW Z4	3	6	Man-6	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	17	26	20	4	No	439
+BMW Z4	3	6	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	17	24	19	4	No	458
+BMW Z4	3	6	AMS-7	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	17	24	19	4	No	458
+BMW Z4	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	17	26	20	4	No	439
+BMW Z4	3	6	Man-6	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	17	26	20	4	No	439
+BMW Z4	3	6	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	17	24	19	4	No	459
+BMW i3	3	6	AMS-7	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	17	24	19	4	No	459
+BMW i3	3	6	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	17	26	20	4	No	439
+BMW i3 REx	3	6	Man-6	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	17	26	20	4	No	439
+BMW i3 REx	3	6	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.0S55	small car	5	16	23	19	4	No	478
+BMW i8	3	6	AMS-7	2WD	Petrol	CA	U2	California LEV-II ULEV	GBMXV03.0S55	small car	6	16	23	19	4	No	478
+BMW i8	4.4	8	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	midsize car	5	14	20	16	3	No	554
+BUICK Cascada	4.4	8	AMS-7	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	midsize car	5	14	20	16	3	No	554
+BUICK Cascada	4.4	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	midsize car	5	15	22	17	3	No	517
+BUICK Enclave	4.4	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	midsize car	5	15	22	17	3	No	517
+BUICK Enclave	4.4	8	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	small car	5	14	20	16	3	No	554
+BUICK Enclave	4.4	8	AMS-7	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	small car	5	14	20	16	3	No	554
+BUICK Enclave	4.4	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	small car	5	15	22	17	3	No	517
+BUICK Encore	4.4	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	small car	5	15	22	17	3	No	517
+BUICK Encore	4.4	8	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	small car	5	14	20	16	3	No	554
+BUICK Encore	4.4	8	AMS-7	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	small car	5	14	20	16	3	No	554
+BUICK Encore	4.4	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	small car	5	15	22	17	3	No	517
+BUICK Encore	4.4	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	small car	5	15	22	17	3	No	517
+BUICK Encore	4.4	8	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	small car	5	14	20	16	3	No	554
+BUICK Encore	4.4	8	AMS-7	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	small car	5	14	20	16	3	No	554
+BUICK Encore	4.4	8	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV04.4S63	small car	5	15	22	17	3	No	517
+BUICK Envision	4.4	8	Man-6	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV04.4S63	small car	5	15	22	17	3	No	517
+BUICK Envision	2	4	SemiAuto-8	4WD	Petrol	CA	L3SULEV30	California LEV-III SULEV30	GBMXV02.0B46	large car	8	22	32	26	6	No	346
+BUICK Lacrosse	2	4	SemiAuto-8	4WD	Petrol	FA	T3B30	Federal Tier 3 Bin 30	GBMXV02.0B46	large car	8	22	32	26	6	No	346
+BUICK Lacrosse	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small SUV	5	21	28	24	5	No	372
+BUICK Lacrosse	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small SUV	6	21	28	24	5	No	372
+BUICK Lacrosse	2	4	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXT02.0N47	small SUV	5	27	34	30	6	No	340
+BUICK Lacrosse	2	4	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GBMXT02.0N47	small SUV	6	27	34	30	6	No	340
+BUICK Lacrosse	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small SUV	5	21	28	24	5	No	372
+BUICK Lacrosse	2	4	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small SUV	6	21	28	24	5	No	372
+BUICK Lacrosse	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small SUV	5	19	27	22	5	No	414
+BUICK Regal	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small SUV	6	19	27	22	5	No	414
+BUICK Regal	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small SUV	5	18	25	21	5	No	428
+BUICK Regal	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small SUV	6	18	25	21	5	No	428
+BUICK Regal	2	4	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small SUV	5	20	28	23	5	No	387
+BUICK Regal	2	4	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small SUV	6	20	28	23	5	No	387
+BUICK Regal	3	6	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ03.0N55	small SUV	5	19	27	22	5	No	414
+BUICK Regal	3	6	SemiAuto-8	4WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ03.0N55	small SUV	6	19	27	22	5	No	414
+BUICK Regal	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXT04.4S63	standard SUV	5	14	19	16	3	No	551
+BUICK Regal	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXT04.4S63	standard SUV	6	14	19	16	3	No	551
+BUICK Regal	3	6	SemiAuto-8	2WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXT03.0F15	standard SUV	6	18	25	21	5	No	425
+BUICK Verano	3	6	SemiAuto-8	2WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXT03.0F15	standard SUV	6	18	25	21	5	No	425
+BUICK Verano	3	6	SemiAuto-8	4WD	Diesel	FA	B5	Federal Tier 2 Bin 5	GBMXT03.0N57	standard SUV	5	23	30	26	5	No	398
+BUICK Verano	3	6	SemiAuto-8	4WD	Diesel	CA	U2	California LEV-II ULEV	GBMXT03.0N57	standard SUV	6	23	30	26	5	No	398
+BUICK Verano	3	6	SemiAuto-8	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXT03.0F15	standard SUV	6	18	24	20	4	No	434
+BUICK Verano	3	6	SemiAuto-8	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXT03.0F15	standard SUV	6	18	24	20	4	No	434
+CADILLAC ATS	4.4	8	SemiAuto-8	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXT04.4F15	standard SUV	6	15	21	17	3	No	516
+CADILLAC ATS	4.4	8	SemiAuto-8	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXT04.4F15	standard SUV	6	15	21	17	3	No	516
+CADILLAC ATS	4.4	8	SemiAuto-8	4WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXT04.4S63	standard SUV	5	14	19	16	3	No	551
+CADILLAC ATS	4.4	8	SemiAuto-8	4WD	Petrol	CA	U2	California LEV-II ULEV	GBMXT04.4S63	standard SUV	6	14	19	16	3	No	551
+CADILLAC ATS	3	6	SemiAuto-8	2WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXT03.0F15	standard SUV	6	18	25	21	5	No	425
+CADILLAC ATS	3	6	SemiAuto-8	2WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXT03.0F15	standard SUV	6	18	25	21	5	No	425
+CADILLAC ATS	3	6	SemiAuto-8	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXT03.0F15	standard SUV	6	18	24	20	4	No	434
+CADILLAC ATS	3	6	SemiAuto-8	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXT03.0F15	standard SUV	6	18	24	20	4	No	434
+CADILLAC ATS	4.4	8	SemiAuto-8	4WD	Petrol	CA	L3ULEV125	California LEV-III ULEV125	GBMXT04.4F15	standard SUV	6	15	21	17	3	No	516
+CADILLAC ATS	4.4	8	SemiAuto-8	4WD	Petrol	FA	T3B125	Federal Tier 3 Bin 125	GBMXT04.4F15	standard SUV	6	15	21	17	3	No	516
+CADILLAC ATS	2	4	Man-6	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	22	34	26	6	No	337
+CADILLAC ATS-V	2	4	Man-6	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	22	34	26	6	No	337
+CADILLAC ATS-V	2	4	SemiAuto-8	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXJ02.0N20	small car	5	22	33	26	6	No	341
+CADILLAC ATS-V	2	4	SemiAuto-8	2WD	Petrol	CA	L2ULEV125	California LEV-II ULEV125	GBMXJ02.0N20	small car	6	22	33	26	6	No	341
+CADILLAC ATS-V	3	6	AMS-7	2WD	Petrol	FA	B5	Federal Tier 2 Bin 5	GBMXV03.054R	small car	5	17	24	20	4	No	454
+CADILLAC CT6	3	6	AMS-7	2WD	Petrol	CA	L2	California LEV-II LEV	GBMXV03.054R	small car	5	17	24	20	4	No	454
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
