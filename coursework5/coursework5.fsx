@@ -59,31 +59,29 @@ convertLp100kmToCO2emissionForDiesel 10.0<lp100km>
 // save the data in file called us.csv
 
 // 3) Load the imperial.csv and us.csv files using FSharp.Data.CsvProvider<>
-#r @"C:\Users\vkop\Documents\Visual Studio 2015\Projects\practice1\packages\FSharp.Data.2.3.2\lib\net40\FSharp.Data.dll"
+#r @"packages\FSharp.Data.2.3.2\lib\net40\FSharp.Data.dll"
 open FSharp.Data
 
-type IMPGProvider = FSharp.Data.CsvProvider<"./imperial.csv">
-let impgData = IMPGProvider.Load("../../../Projects/practice1/practice1/imperial.csv")
+type IMPGProvider = FSharp.Data.CsvProvider<"imperial.csv">
+let impgData = IMPGProvider.Load("imperial.csv")
 
 
-type USMPGProvider = FSharp.Data.CsvProvider<"./us.csv">
-let usmpgData = USMPGProvider.Load("../../../Projects/practice1/practice1/us.csv")
+type USMPGProvider = FSharp.Data.CsvProvider<"us.csv">
+let usmpgData = USMPGProvider.Load("us.csv")
 
 
 // 4) Write a function to convert the appropriate mpg data into
 //    litres per 100 km using the functions defined in Q1.
-let IMPGRows = impgData.Rows |> List.ofSeq
-//let convertAndFilterIMPGRows rows = rows |> List.map (fun (r:IMPGProvider.Row) -> (r.Manufacturer + " " + r.Model, r.``Fuel type``, convertImpgToLp100km(r.``Imperial combined`` * 1.0<impg>), r.CO2))
-let convertAndFilterIMPGRows rows = rows |> List.map (fun (r:IMPGProvider.Row) -> (r.``Fuel type``, convertImpgToLp100km(r.``Imperial combined`` * 1.0<impg>), r.CO2))
+let IMPGRows = impgData.Rows 
+let convertAndFilterIMPGRows rows = rows |> Seq.map (fun (r:IMPGProvider.Row) -> (r.``Fuel type``, convertImpgToLp100km(r.``Imperial combined`` * 1.0<impg>), r.CO2))
 
-let convertedIMPGData = convertAndFilterIMPGRows IMPGRows |> List.sortBy (fun (_, consumption, _) -> consumption)
+let convertedIMPGData = convertAndFilterIMPGRows IMPGRows |> Seq.sortBy (fun (_, consumption, _) -> consumption)
 
 
-let USMPGRows = usmpgData.Rows |> List.ofSeq
-//let convertAndFilterUSMPGRows rows = rows |> List.map (fun (r:USMPGProvider.Row) -> (r.Model, r.Fuel, convertUSmpgToLp100km(r.``Cmb MPG`` * 1.0<usmpg>), r.``Comb CO2``))
-let convertAndFilterUSMPGRows rows = rows |> List.map (fun (r:USMPGProvider.Row) -> (r.Fuel, convertUSmpgToLp100km(r.``Cmb MPG`` * 1.0<usmpg>), r.``Comb CO2``))
+let USMPGRows = usmpgData.Rows
+let convertAndFilterUSMPGRows rows = rows |> Seq.map (fun (r:USMPGProvider.Row) -> (r.Fuel, convertUSmpgToLp100km(r.``Cmb MPG`` * 1.0<usmpg>), r.``Comb CO2``))
 
-let convertedUSMPGData = convertAndFilterUSMPGRows USMPGRows |> List.sortBy (fun (_, consumption, _) -> consumption)
+let convertedUSMPGData = convertAndFilterUSMPGRows USMPGRows |> Seq.sortBy (fun (_, consumption, _) -> consumption)
 // 5) Display the converted data in an appropriate chart (select the type that is most 
 //    appropriate for displaying the data).
 
@@ -91,31 +89,37 @@ let convertedUSMPGData = convertAndFilterUSMPGRows USMPGRows |> List.sortBy (fun
 //depending on fuel consumption expressed in litres per 100 km
 //for different types of fuel
 
-#r @"C:\Users\vkop\Documents\Visual Studio 2015\Projects\practice1\packages\FSharp.Charting.0.90.14\lib\net40\FSharp.Charting.dll"
+#load @"packages\FSharp.Charting.0.90.14\FSharp.Charting.fsx"
 open FSharp.Charting
 
-let IMPGPetrolCO2Emission = convertedIMPGData |> List.filter (fun (fuel,_,_) -> fuel = "Petrol") |> List.map (fun (_,consumption, emission) -> (consumption, emission))
-let IMPGDieselCO2Emission = convertedIMPGData |> List.filter (fun (fuel,_,_) -> fuel = "Diesel") |> List.map (fun (_,consumption, emission) -> (consumption, emission))
+let IMPGPetrolCO2Emission = convertedIMPGData |> Seq.filter (fun (fuel,_,_) -> fuel = "Petrol") |> Seq.map (fun (_,consumption, emission) -> (consumption, emission))
+let IMPGDieselCO2Emission = convertedIMPGData |> Seq.filter (fun (fuel,_,_) -> fuel = "Diesel") |> Seq.map (fun (_,consumption, emission) -> (consumption, emission))
 
 Chart.Combine(
    [ Chart.Line(IMPGPetrolCO2Emission,"PetrolIMPG","CO2 emission (IMPG data)")
-     Chart.Line(IMPGDieselCO2Emission,"DieselIMPG") ]).ShowChart()
+     Chart.Line(IMPGDieselCO2Emission,"DieselIMPG") ])
+     |> Chart.WithLegend(InsideArea = false) 
+     |> Chart.WithYAxis(true,"CO2 g/km") |> Chart.WithXAxis(true,"L/100 km",Min=3.0)
 
-let USMPGPetrolCO2Emission = convertedUSMPGData |> List.filter (fun (fuel,_,_) -> fuel = "Petrol") |> List.map (fun (_,consumption, emission) -> (consumption, emission))
-let USMPGDieselCO2Emission = convertedUSMPGData |> List.filter (fun (fuel,_,_) -> fuel = "Diesel") |> List.map (fun (_,consumption, emission) -> (consumption, emission))
+let USMPGPetrolCO2Emission = convertedUSMPGData |> Seq.filter (fun (fuel,_,_) -> fuel = "Petrol") |> Seq.map (fun (_,consumption, emission) -> (consumption, emission))
+let USMPGDieselCO2Emission = convertedUSMPGData |> Seq.filter (fun (fuel,_,_) -> fuel = "Diesel") |> Seq.map (fun (_,consumption, emission) -> (consumption, emission))
 
 Chart.Combine(
    [ Chart.Line(USMPGPetrolCO2Emission,"PetrolUSMPG","CO2 emission (USMPG data)")
-     Chart.Line(USMPGDieselCO2Emission,"DieselUSMPG") ]).ShowChart()
+     Chart.Line(USMPGDieselCO2Emission,"DieselUSMPG") ])
+     |> Chart.WithLegend(InsideArea = false) 
+     |> Chart.WithYAxis(true,"CO2 g/km") |> Chart.WithXAxis(true,"L/100 km",Min=5.0)
 
 
 
  // 6) Combine the data from 2 data sources into a single chart. Add appropriate titles and
 //    legends. 
-let combinedPetrolCO2Emission = List.concat([IMPGPetrolCO2Emission;USMPGPetrolCO2Emission])
-let combinedDieselCO2Emission = List.concat([IMPGDieselCO2Emission;USMPGDieselCO2Emission])
+let combinedPetrolCO2Emission = Seq.concat([IMPGPetrolCO2Emission;USMPGPetrolCO2Emission])
+let combinedDieselCO2Emission = Seq.concat([IMPGDieselCO2Emission;USMPGDieselCO2Emission])
 
 Chart.Combine(
    [ Chart.Line(combinedPetrolCO2Emission,"Petrol","CO2 emission (combined data)")
-     Chart.Line(combinedDieselCO2Emission,"Diesel") ]).ShowChart()
+     Chart.Line(combinedDieselCO2Emission,"Diesel") ]) 
+     |> Chart.WithLegend(InsideArea = false) 
+     |> Chart.WithYAxis(true,"CO2 g/km") |> Chart.WithXAxis(true,"L/100 km",Min=3.0)
 
