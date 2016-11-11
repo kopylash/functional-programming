@@ -1,4 +1,20 @@
-﻿module coursework6
+﻿(*
+
+  ITT8060 -- Advanced Programming 2016
+  Department of Computer Science
+  Tallinn University of Technology
+  ------------------------------------------------
+
+  Coursework 6: Property based testing
+
+  ------------------------------------------------
+  Name: Vladyslav Kopylash
+  Student ID: vlkopy
+  ------------------------------------------------
+
+*)
+
+module coursework6
 
 #if INTERACTIVE
 #r @"..\packages\NUnit.2.6.4\lib\nunit.framework.dll"
