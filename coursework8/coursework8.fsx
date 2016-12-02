@@ -115,9 +115,6 @@ let fourthRoot (num : float) : float option =
 
 fourthRoot 256.0
 
-//or do we need to use custom option type?
-
-
 (*
   Task 5:
 
